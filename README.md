@@ -1,5 +1,5 @@
 # Google Analytics
-**Objective**: Understand what is google analytics and how it can be used toachieve strategic objectives.
+**Objective**: Understand what is google analytics and how it can be used to achieve strategic objectives.
 
 A fantastic course where the utility of google analytics is clearly explained. Google Analytics scans your website and gives data on how it is performing. It tells us how many views, viewers, first time viewers and repeaters have used our website. It also gives the demographics of the viewers for e.g. viewers' location, age, gender etc. The average time spent on each page of your website, which page got the maximum hits and which got the lowest. It also gives us the information about the type of device used to access the website like mobile, desktop, tablet etc. If the website is an e-commerce one, then is also gives data about where are we generating sales and also how we are generating them and how much is contributed by each entity. From which platform they are accessing the website like the kind of browser used, coming through google or any other platform or are they directly accessing the website through it's URL. 
 
